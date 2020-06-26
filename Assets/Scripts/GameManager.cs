@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private Transform mainCamera;
     [SerializeField] private Transform[] doors;
-    [SerializeField] private RoomHandler room;
+    [SerializeField] private RoomHandler[] rooms;
     [SerializeField] private GameObject guide;
 
 
@@ -31,7 +31,10 @@ public class GameManager : MonoBehaviour
 
     private void Init()
     {
-        room.HideRoom();
+        foreach (var room in rooms)
+        {
+            room.HideRoom();
+        }
         
         VideoHandler._.PlayIntro();
         _isInHall = false;
@@ -65,6 +68,6 @@ public class GameManager : MonoBehaviour
 
     public void ShowCurrentRoom()
     {
-        room.ShowRoom();
+        rooms[Stat.Ins.currentRoom].ShowRoom(Stat.Ins.games[0].DbQuestions);
     }
 } 
