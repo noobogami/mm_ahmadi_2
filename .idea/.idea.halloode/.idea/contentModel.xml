@@ -21,10 +21,14 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="GameManager.cs" t="Include" />
+          <e p="MainScripts" t="Include">
+            <e p="BaseRoom.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="QuestionRoom.cs" t="Include" />
+            <e p="Stat.cs" t="Include" />
+          </e>
           <e p="Question.cs" t="Include" />
-          <e p="RoomHandler.cs" t="Include" />
-          <e p="Stat.cs" t="Include" />
+          <e p="Room01.cs" t="Include" />
           <e p="VideoHandler.cs" t="Include" />
         </e>
         <e p="UPersian" t="Include">

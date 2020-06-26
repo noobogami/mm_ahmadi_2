@@ -1104,7 +1104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ce407a5f0f04430f85acdd96124aed4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  quastionAndAnswers:
+  questionAndAnswers:
   - {fileID: 4085958817194715219}
   - {fileID: 8348196329261449308}
   - {fileID: 3412812604760377794}
