@@ -32,6 +32,7 @@ public class VideoHandler : MonoBehaviour
 
     private void IntroEnded(VideoPlayer v)
     {
+        player.gameObject.SetActive(false);
         GameManager._.StartGame();
     }
 }

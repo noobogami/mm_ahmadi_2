@@ -29,8 +29,11 @@ namespace MainScripts
         public void CheckAnswers()
         {
             for (var i = 0; i < _questionsAndAnswers.Length; i++)
-                if (questions[i].GetAnswer() == _questionsAndAnswers[i].answer)
+            {
+                print($"answer was {_questionsAndAnswers[i].answer} and your choice was {questions[i].GetAnswer() + 1}");
+                if (questions[i].GetAnswer() + 1 == _questionsAndAnswers[i].answer)
                     _score++;
+            }
 
             if (_score < _qualifiedScore)
                 ShowFailWarning();
@@ -49,6 +52,7 @@ namespace MainScripts
 
         public void SubmitAnswer()
         {
+            GameManager._.ShowHall();
         }
     }
 }

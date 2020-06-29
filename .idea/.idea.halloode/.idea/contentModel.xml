@@ -28,7 +28,6 @@
             <e p="Stat.cs" t="Include" />
           </e>
           <e p="Question.cs" t="Include" />
-          <e p="Room01.cs" t="Include" />
           <e p="VideoHandler.cs" t="Include" />
         </e>
         <e p="UPersian" t="Include">

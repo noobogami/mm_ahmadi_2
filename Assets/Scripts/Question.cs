@@ -1,7 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UIElements;
+﻿using UnityEngine;
+using UnityEngine.UI;
 using UPersian.Components;
 
 public class Question : MonoBehaviour
@@ -14,13 +12,13 @@ public class Question : MonoBehaviour
         for (var i = 0; i < 5; i++)
             questionAndAnswers[i].text = questionAnswers[i];
         foreach (var a in answers)
-            a.SetValueWithoutNotify(false);
+            a.SetIsOnWithoutNotify(false);
     }
 
     internal int GetAnswer()
     {
         for (var i = 0; i < 4; i++)
-            if (answers[i].value)
+            if (answers[i].isOn)
                 return i;
         return 0;
     }
