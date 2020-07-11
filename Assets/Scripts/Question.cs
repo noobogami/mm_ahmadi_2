@@ -22,4 +22,12 @@ public class Question : MonoBehaviour
                 return i;
         return 0;
     }
+
+    internal void ResetAnswers()
+    {
+        foreach (var a in answers)
+        {
+            a.SetIsOnWithoutNotify(false);
+        }
+    }
 }

@@ -2,15 +2,42 @@
 {
     public class Stat
     {
-        public string PlayerName;
-        public int CurrentRoom;
-        public bool GuideShown;
+        private string playerName;
+        public string PlayerName
+        {
+            get => playerName;
+            set
+            {
+                playerName = value;
+                UIManager._.SetPlayerName();
+            }
+        }
+
+        private int score;
+        public int Score
+        {
+            get => score;
+            set
+            {
+                score = value;
+                UIManager._.SetScore();
+            }
+        }
+
+        private int level;
+
+        public int Level
+        {
+            get => level;
+            set
+            {
+                level = value; 
+                UIManager._.SetLevel();
+            }
+        }
 
 
-        public int Score;
         public readonly Game[] games;
-
-
         private static Stat _ins;
 
         public static Stat Ins
@@ -25,14 +52,13 @@
 
         private Stat()
         {
-            CurrentRoom = 0;
-            PlayerName = "فلان بن فلان";
-            GuideShown = false;
-            Score = 0;
+            playerName = "فلان بن فلان";
+            score = 0;
+            level = 0;
 
             games = new[]
             {
-                new Game(GameStyle.Question, 9,new[]
+                new Game("یگان مهندسی نیروی زمینی سپاه تهران", GameStyle.Question, new[]
                 {
                     new DBQuestion(
                         new[]
@@ -102,7 +128,7 @@
                             "درخواست اعزام به موقعیت مسأله"
                         }, 2)
                 }),
-                new Game(GameStyle.Type,9, null), 
+                new Game("فلااااان", GameStyle.Type, null),
             };
         }
 
@@ -121,14 +147,20 @@
         public class Game
         {
             public GameStyle Style;
-            public int QualifiedScore;
+            //public readonly int QualifiedScore;
             public readonly DBQuestion[] DbQuestions;
+            public bool Passed;
+            public readonly string RoomName;
+            public int tries;
 
-            public Game(GameStyle s,int minScore, DBQuestion[] q)
+            public Game(string name, GameStyle s, DBQuestion[] q)
             {
                 Style = s;
-                QualifiedScore = minScore;
+                //QualifiedScore = minScore;
                 DbQuestions = q;
+                Passed = false;
+                RoomName = name;
+                tries = 0;
             }
         }
 

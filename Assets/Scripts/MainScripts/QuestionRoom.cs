@@ -7,8 +7,7 @@ namespace MainScripts
         [SerializeField] private Question[] questions;
 
         private Stat.DBQuestion[] _questionsAndAnswers;
-        private int _qualifiedScore;
-        private int _score;
+        //private int _qualifiedScore;
 
 
         internal override void Init(int roomNum)
@@ -20,10 +19,16 @@ namespace MainScripts
             for (var i = 0; i < _questionsAndAnswers.Length; i++)
                 questions[i].Init(_questionsAndAnswers[i].qa);
 
-            _qualifiedScore = g.QualifiedScore;
+            //_qualifiedScore = g.QualifiedScore;
             _score = 0;
             ShowFailWarning(false);
             ShowCongratsWarning(false);
+        }
+
+        public override void ResetRoom()
+        {
+            foreach (var q in questions)
+                q.ResetAnswers();
         }
 
         public void CheckAnswers()
@@ -35,24 +40,13 @@ namespace MainScripts
                     _score++;
             }
 
-            if (_score < _qualifiedScore)
+            if (_score < questions.Length)
+            {
                 ShowFailWarning();
+                _score = 0;
+            }
             else
                 ShowCongratsWarning();
-        }
-
-        private void ShowFailWarning(bool show = true)
-        {
-            failWarning.SetActive(show);
-        }
-        private void ShowCongratsWarning(bool show = true)
-        {
-            congratsWarning.SetActive(show);
-        }
-
-        public void SubmitAnswer()
-        {
-            GameManager._.ShowHall();
         }
     }
 }
