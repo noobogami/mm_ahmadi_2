@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Noobogami\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Noobogami\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_halloode.-1470415790.00" t="ExcludeRecursive" />
+    <e p="D:\Work\Qolenj\halloode" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -22,16 +24,33 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="MainScripts" t="Include">
-            <e p="BaseRoom.cs" t="Include" />
             <e p="FormHandler.cs" t="Include" />
             <e p="GameManager.cs" t="Include" />
             <e p="GuideHandler.cs" t="Include" />
-            <e p="QuestionRoom.cs" t="Include" />
+            <e p="Rooms" t="Include">
+              <e p="BaseRoom.cs" t="Include" />
+              <e p="ConnectionPuzzle" t="Include">
+                <e p="ConnectionPuzzleChoice.cs" t="Include" />
+                <e p="ConnectionPuzzleQuestion.cs" t="Include" />
+                <e p="ConnectionPuzzleRoom.cs" t="Include" />
+              </e>
+              <e p="DragNDropPuzzle" t="Include">
+                <e p="DragNDropCell.cs" t="Include" />
+                <e p="DragNDropRoom.cs" t="Include" />
+              </e>
+              <e p="DropDownPuzzle" t="Include">
+                <e p="DropDownQuestions.cs" t="Include" />
+                <e p="DropDownRoom.cs" t="Include" />
+              </e>
+              <e p="QuestionRoom.cs" t="Include" />
+              <e p="TypeRoom.cs" t="Include" />
+            </e>
             <e p="Stat.cs" t="Include" />
             <e p="UIManager.cs" t="Include" />
           </e>
           <e p="Question.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
+          <e p="Utility.cs" t="Include" />
           <e p="VideoHandler.cs" t="Include" />
         </e>
         <e p="TutorialInfo" t="Include">
@@ -63,14 +82,9 @@
       </e>
       <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
       <e p="halloode.sln" t="IncludeFlat" />
-      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_halloode.-506733280.00" t="ExcludeRecursive" />
   </component>
 </project>

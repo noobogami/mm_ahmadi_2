@@ -4,14 +4,7 @@ using UnityEngine.UI;
 
 public class GuideHandler : MonoBehaviour
 {
-    internal static GuideHandler _;
 
-    void Awake()
-    {
-        _ = this;
-    }
-    
-    
     private int _currentSlide;
     public Sprite[] slides;
     public Image slideShow;

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using MainScripts;
 using UnityEngine;
+using UnityEngine.UI;
 using UPersian.Components;
 
 public class UIManager : MonoBehaviour
@@ -12,20 +13,35 @@ public class UIManager : MonoBehaviour
     void Awake()
     {
         _ = this;
+        Init();
     }
     
     
     
     
     
-    [SerializeField] private GameObject black;
+    [SerializeField] private GameObject blackScreen;
 
     [Header("HUD")] 
     [SerializeField] private RtlText playerName;
     [SerializeField] private RtlText score;
     [SerializeField] private RtlText level;
+    [SerializeField] private Image rankObject;
 
-    internal void ShowBlack(bool show) => black.SetActive(show);
+    [Header("Rank Sprites")] 
+    [SerializeField] private Sprite[] rankSourceImages;
+
+    internal void Init()
+    {
+        gameObject.SetActive(false);
+        SetLevel();
+        SetScore();
+    }
+    
+    internal void ShowBlack(bool show)
+    {
+        blackScreen.SetActive(show);
+    }
 
     internal void SetPlayerName()
     {
@@ -39,5 +55,6 @@ public class UIManager : MonoBehaviour
     internal void SetLevel()
     {
         level.text = Stat.Ins.Level.ToString();
+        rankObject.sprite = rankSourceImages[Stat.Ins.Level];
     }
 }

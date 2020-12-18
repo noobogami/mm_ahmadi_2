@@ -5,13 +5,6 @@ namespace MainScripts
 {
     public class FormHandler : MonoBehaviour
     {
-        internal static FormHandler _;
-
-        void Awake()
-        {
-            _ = this;
-        }
-        
         [SerializeField] private RtlText nameText;
 
         internal void ShowForm(bool show)
