@@ -20,168 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f357c976-4eda-4f0c-953d-6887424c7147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/ConnectionPuzzle.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropCell.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropCell.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownQuestions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownQuestions.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownRoom.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownRoom.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.halloode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.halloode/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.halloode/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.halloode/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.halloode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.halloode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Btn_OK.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/General UI/Btn_OK.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Btn_Yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/General UI/Btn_Yellow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Decision_Btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Decision_Btn.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/UtilityBG.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/UtilityBG.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Utility_Btn_OtherShit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Utility_Btn_OtherShit.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Utility_Btn_Reset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/General UI/Utility_Btn_Reset.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide4.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide5.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide5.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide6.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide7.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide7.PNG.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide8.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide8.PNG.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide9.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Guide/Guide_Slide9.PNG.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/HUD.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/HUD.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Information Form/informationFormBG.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Information Form/informationFormBG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/PSD/Room.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/PSD/Room.psd.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Room/Room.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Room/Room.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/!UV density checker.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/!UV density checker.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Real materials vol.0 [High definition render pipeline].unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Real materials vol.0 [Standard render pipeline].unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Real materials vol.0 [Universal render pipeline].unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/!UV density checker diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/!UV density checker diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/!UV density checker diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/!UV density checker diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass color variations diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass color variations diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass color variations diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass color variations diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass common diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass common diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass common diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass common diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/brass spotty metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 10 percent mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 10 percent mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 10 percent mask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 10 percent mask.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 15 percent mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 15 percent mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 15 percent mask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 15 percent mask.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 5 percent mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 5 percent mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 5 percent mask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common 5 percent mask.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse 3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse 3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common grunge diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common large bumps 16bpp normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common large bumps 16bpp normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common large bumps 16bpp normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common large bumps 16bpp normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common leaking diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common leaking diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common leaking diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common leaking diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness 2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness 2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common non-metal smooth metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common sand noise normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common sand noise normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common sand noise normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common sand noise normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/common white cloud noise normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common occlusion.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common occlusion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common occlusion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper common occlusion.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/copper with patina metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/floor marble scattered normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/glass generic slightly dusty diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/glass generic slightly dusty diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/glass generic slightly dusty diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/glass generic slightly dusty diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/granite rough normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble rough metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble rough metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble rough metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble rough metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble white diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble white diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble white diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/marble white diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common diffuse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common diffuse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common diffuse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common diffuse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common normal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/plaster common normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/steel galvanized iridescent colorful metalness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/steel galvanized iridescent colorful metalness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/Textures/steel galvanized iridescent colorful metalness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/Textures/steel galvanized iridescent colorful metalness.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Aluminum common.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Aluminum common.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Brass common.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Brass common.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Brass common.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Brass common.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Copper common.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Copper common.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Copper very old.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Copper very old.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Floor marble scattered.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Floor marble scattered.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Glass generic slightly dusty.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Glass generic slightly dusty.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Granite polished.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Granite polished.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Granite rough.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Granite rough.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Marble polished white.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Marble polished white.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Marble rough white.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Marble rough white.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Plaster common.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Plaster common.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Steel common.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[free] Steel common.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Wood Plank.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[free] Wood Plank.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[skybox] Semi-overcast sky.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[skybox] Semi-overcast sky.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Real Materials/[skybox] Semi-overcast sky.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Real Materials/[skybox] Semi-overcast sky.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Room/Room 05.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Room/Room 05.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Question.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Question.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main/ReflectionProbe-0.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/BaseRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/BaseRoom.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/BaseRoom.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/BaseRoom.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/FormHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/FormHandler.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/GameManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/GameManager.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/GuideHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/GuideHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/QuestionRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/QuestionRoom.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/QuestionRoom.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/QuestionRoom.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/BaseRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/BaseRoom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropRoom.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Stat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/Stat.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainScripts/UIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainScripts/UIManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,12 +84,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownRoom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropRoom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownQuestions.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownRoom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropContainer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Stat.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DropDownPuzzle/DropDownRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/BaseRoom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropCell.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Rooms/DragNDropPuzzle/DragNDropRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScripts/Stat.cs" />
       </list>
     </option>
   </component>
@@ -252,6 +99,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -308,8 +156,20 @@
       <workItem from="1601633792120" duration="10016000" />
       <workItem from="1601820418730" duration="776000" />
       <workItem from="1607076145551" duration="1429000" />
-      <workItem from="1608289879551" duration="15695000" />
+      <workItem from="1608289879551" duration="15812000" />
+      <workItem from="1616504764833" duration="4438000" />
+      <workItem from="1616756970786" duration="5417000" />
+      <workItem from="1617301654028" duration="1523000" />
+      <workItem from="1617375637570" duration="5856000" />
     </task>
+    <task id="LOCAL-00001" summary="kiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiir">
+      <created>1608320159039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608320159039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,23 +187,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiir" />
+    <option name="LAST_COMMIT_MESSAGE" value="kiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiir" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1006" y="261" key="RiderGenerateDialog" timestamp="1608316568341">
-      <screen x="-1680" y="35" width="1680" height="1020" />
+    <state x="627" y="258" width="666" height="534" key="find.popup" timestamp="1617381710119">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1006" y="261" key="RiderGenerateDialog/-1680.35.1680.1020/0.0.1920.1050@-1680.35.1680.1020" timestamp="1608316568341" />
-    <state x="770" y="233" key="RiderGenerateDialog/-1680.35.1680.1020/0.0.1920.1050@0.0.1920.1050" timestamp="1608302427428" />
-    <state x="674" y="226" key="RiderGenerateDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1601646139949" />
-    <state x="-1173" y="144" width="666" height="801" key="find.popup" timestamp="1608308232278">
-      <screen x="-1680" y="35" width="1680" height="1020" />
+    <state x="627" y="258" width="666" height="534" key="find.popup/1920.35.1680.1020/0.0.1920.1050@0.0.1920.1050" timestamp="1617381710119" />
+    <state x="361" y="243" width="1196" height="377" key="search.everywhere.popup" timestamp="1617311523684">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1173" y="144" width="666" height="801" key="find.popup/-1680.35.1680.1020/0.0.1920.1050@-1680.35.1680.1020" timestamp="1608308232278" />
-    <state x="-1364" y="271" width="1046" height="366" key="search.everywhere.popup" timestamp="1608316236153">
-      <screen x="-1680" y="35" width="1680" height="1020" />
-    </state>
-    <state x="-1364" y="271" width="1046" height="366" key="search.everywhere.popup/-1680.35.1680.1020/0.0.1920.1050@-1680.35.1680.1020" timestamp="1608316236153" />
-    <state x="316" y="236" width="1046" height="366" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1601651569784" />
+    <state x="361" y="243" width="1196" height="377" key="search.everywhere.popup/1920.35.1680.1020/0.0.1920.1050@0.0.1920.1050" timestamp="1617311523684" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

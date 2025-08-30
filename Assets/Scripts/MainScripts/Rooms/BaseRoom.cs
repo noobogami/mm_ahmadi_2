@@ -19,6 +19,7 @@ namespace MainScripts
 
         internal void ShowRoom(string rName)
         {
+            print($"Showing the fucking room {num}");
             roomName.text = rName;
             gameObject.SetActive(true);
             _score = 0;

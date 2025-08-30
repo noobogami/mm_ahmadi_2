@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -33,14 +34,19 @@ namespace MainScripts
         [SerializeField] private DropDownRoom room03;
         [SerializeField] private TypeRoom room04;
         [SerializeField] private DragNDropRoom room05;
+        [SerializeField] private QuestionRoom room06;
+        [SerializeField] private ConnectionPuzzleRoom room07;
+        [SerializeField] private DropDownRoom room08;
+        [SerializeField] private TypeRoom room09;
+        [SerializeField] private DragNDropRoom room10;
 
         [Header("Other SHIT!")] 
         [SerializeField] private Button enteringRoomOptions;
         [SerializeField] private RtlText enteringBtnText;
 
         [SerializeField] private GameObject exitWarning;
-
-
+        [SerializeField] private GameObject completeWarning;
+        
         private List<BaseRoom> _rooms;
         private bool _isInHall;
         internal int CurrentShowingRoom;
@@ -53,7 +59,7 @@ namespace MainScripts
         private void Init()
         {
             //UIManager._.ShowBlack(true);
-            _rooms = new List<BaseRoom>() {room01, room02, room03, room04, room05};
+            _rooms = new List<BaseRoom>() {room01, room02, room03, room04, room05, room06, room07, room08, room09, room10};
 
             HideAllRooms();
 
@@ -71,7 +77,8 @@ namespace MainScripts
             for (var i = 0; i < _rooms.Count; i++)
             {
                 _rooms[i].HideRoom();
-                _rooms[i].Init(i);
+                if (Stat.Ins.games[i].style != Stat.GameStyle.Unassigned)
+                    _rooms[i].Init(i);
             }
         }
 
@@ -91,6 +98,7 @@ namespace MainScripts
             HideAllRooms();
             EnterRoomBtn();
             _isInHall = true;
+            completeWarning.SetActive(Stat.Ins.games.All(g => g.passed));
         }
 
         void Update()

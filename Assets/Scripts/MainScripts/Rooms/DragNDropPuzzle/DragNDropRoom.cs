@@ -13,6 +13,7 @@ namespace MainScripts
         internal override void Init(int roomNum)
         {
             num = roomNum;
+            print($"Initializing the fucking DnD room {num}");
             var g = Stat.Ins.games[num];
             var db = g.dbDragNDropTitles;
             
@@ -63,6 +64,8 @@ namespace MainScripts
                 pos = containers[i].position;
                 print($"{pos.x} - {pos.y}");*/
                 if (occupiedContainer.Contains(i) || (cell.transform.position - containers[i].position).magnitude > threshold) continue;
+                if(cell.container >= 0)
+                    occupiedContainer.Remove(cell.container);
                 cell.DropOnCell(i, containers[i].transform.position);
                 occupiedContainer.Add(i);
                 return;
